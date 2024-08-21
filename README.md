@@ -1,4 +1,4 @@
-# SmartCCTVProject
+# SmartCCTVSystem
 This project is a Smart CCTV System that automates the detection and saving of video clips based on continuous changes, optimizing storage efficiency. It leverages computer vision techniques to identify and track objects in video frames.
 
 ## Features
