@@ -14,6 +14,11 @@ Clone this repository:
 git clone https://github.com/VenaFL/SmartCCTVProject.git 
 cd SmartCCTVProject
 ~~~
+Create and activate a virtual environment:
+~~~
+python -m venv venv 
+source venv/Scripts/activate # On MacOS use `venv\bin\activate`
+~~~
 Install the required packages:
 ~~~
 pip install -r requirements.txt
